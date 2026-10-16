@@ -24,9 +24,4 @@ https://akoley713-ui.github.io/browser-extensions-manager-ui-main/
 Abhijit Koley — [GitHub Profile](https://github.com/akoley713-ui)
 
 ## Acknowledgements
-Challenge by [Frontend Mentor](https://www.frontendmentor.io/).
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
-
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
-
-**Have fun building!** 🚀
+Challenge by [Frontend Mentor](https://www.frontendmentor.io/)
